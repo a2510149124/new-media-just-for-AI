@@ -1,0 +1,4 @@
+interface:
+  display_name: "农业无人机B2B选题与脚本"
+  short_description: "为组装厂与海外渠道制作自然可信的农业无人机B2B选题和双语脚本"
+  default_prompt: "Use $agri-drone-b2b-content to create a customer-centered, evidence-bounded bilingual B2B short-video topic and script."
